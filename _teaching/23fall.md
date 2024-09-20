@@ -1,5 +1,5 @@
 ---
-title: "TA for Advanced Mathematics (A) I (Lecturer: Prof. Jinbiao Wu)"
+title: "TA for Advanced Mathematics (A) I (Lectured by Prof. Jinbiao Wu)"
 collection: teaching
 type: "Teaching assistant"
 permalink: /teaching/23fall
