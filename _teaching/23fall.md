@@ -4,7 +4,7 @@ collection: teaching
 type: "Teaching assistant"
 permalink: /teaching/23fall
 venue: "Peking University"
-date: 2023-09-11
+date: 2023-09-01
 location: "Beijing, China"
 ---
 
