@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year PhD student in [School of Mathematical Sciences](https://www.math.pku.edu.cn/), [Peking University](https://www.pku.edu.cn), under the supervision of Prof. Yi Xie. Previously, I received my Bachelor's degree in math from Peking University.
+I am a first-year PhD student in [School of Mathematical Sciences](https://www.math.pku.edu.cn/), [Peking University](https://www.pku.edu.cn), under the supervision of Prof. Yi Xie. Previously, I received my Bachelor's degree in math from Peking University in 2024.
 
 Research interests
 ======
