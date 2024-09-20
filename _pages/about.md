@@ -20,8 +20,3 @@ Coming soon.
 Teaching
 ======
 I served as a teaching assistant for the course GEOMETRY (with Prof. Yi Xie) in Fall 2024.
-
-Previous teaching experience
-------
-I served as a teaching assistant for the course ADVANCED MATHEMATICS A (I) (with Prof. Jinbiao Wu) in Fall 2023.
-
