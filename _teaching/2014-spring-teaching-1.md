@@ -2,7 +2,7 @@
 title: "Advanced Mathematics (A) I (with Prof. Jinbiao Wu)"
 collection: teaching
 type: "Teaching assistant"
-permalink: /teaching/2014-spring-teaching-1
+permalink: /teaching/23fall
 venue: "Peking University"
 date: Fall 2023
 location: "Beijing, China"
