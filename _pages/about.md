@@ -15,7 +15,7 @@ I do research in low-dimensional topology, especially gauge theory, Floer homolo
 
 Publications
 ======
-Coming soon.
+In preparation.
 
 Teaching
 ======
