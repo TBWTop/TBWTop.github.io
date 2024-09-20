@@ -19,4 +19,4 @@ Coming soon.
 
 Teaching
 ======
-I served as a teaching assistant for the course GEOMETRY (with Prof. Yi Xie) in Fall 2024.
+I serve as a teaching assistant for the course GEOMETRY (with Prof. Yi Xie) in Fall 2024.
