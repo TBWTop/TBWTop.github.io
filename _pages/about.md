@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /11
 title: "Welcome to Bowen Tang's homepage!"
 author_profile: true
 redirect_from: 
