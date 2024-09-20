@@ -10,6 +10,6 @@ location: "Beijing, China"
 
 I serve as a teaching assistant for this course in this semester (Fall 2024).
 
-Answers to assignments (written by myself) will be posted here.
+Solutions to assignments (written by myself) will be posted here.
 
-[Answer to HW01](HW1.pdf)
+[Solution to HW01](HW1.pdf)
