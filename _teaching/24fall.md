@@ -1,5 +1,5 @@
 ---
-title: "TA for Geometry (Lecturer: Prof. Yi Xie)"
+title: "TA for Geometry (Lectured by Prof. Yi Xie)"
 collection: teaching
 type: "Teaching assistant"
 permalink: /teaching/24fall
