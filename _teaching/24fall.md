@@ -1,7 +1,7 @@
 ---
 title: "TA for Geometry (Lectured by Prof. Yi Xie)"
 collection: teaching
-type: "Teaching assistant"
+type: "Undergraduate Course"
 permalink: /teaching/24fall
 venue: "Peking University"
 date: 2024-09-01
