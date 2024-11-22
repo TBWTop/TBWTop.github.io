@@ -17,6 +17,12 @@ Publications
 ======
 In preparation.
 
+Contact
+======
+School of Mathematical Sciences, Peking University.
+No. 5 Yiheyuan Road, Haidian District, Beijing, P. R. China, 100871.
+Email address: tangbowen AT stu DOT pku DOT edu DOT cn
+
 Teaching Assistant
 ======
 I serve as a teaching assistant for the course GEOMETRY (with Prof. Yi Xie) in Fall 2024.
