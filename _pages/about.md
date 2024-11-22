@@ -24,6 +24,8 @@ Publications
 ======
 In preparation.
 
-Teaching Assistant
+Teaching Assistant Experiences
 ======
-I serve as a teaching assistant for the course GEOMETRY (with Prof. Yi Xie) in Fall 2024.
+I serve as a teaching assistant for the course GEOMETRY (with Prof. Yi Xie) in this semester (Fall 2024).
+
+Fall 2023: Advanced Mathematics A (I) (with Prof. Jinbiao Wu). 
