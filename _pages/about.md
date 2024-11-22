@@ -17,6 +17,6 @@ Publications
 ======
 In preparation.
 
-Teaching
+Teaching Assistant
 ======
-I serve as a teaching assistant for the course [GEOMETRY](https://tbwtop.github.io/teaching/24fall) (with Prof. Yi Xie) in Fall 2024.
+I serve as a teaching assistant for the course GEOMETRY (with Prof. Yi Xie) in Fall 2024.
