@@ -23,7 +23,7 @@ I do research in low-dimensional topology, especially gauge theory, Floer homolo
 
 Notes
 ======
-A Note on Fr\o{}yshov's $h$-invariant for homology 3-spheres, in preparation.
+A Note on Frøyshov's h-invariant for homology 3-spheres, in preparation.
 
 Yang-Mills equations and the topology of four-manifolds, senior thesis. 
 
