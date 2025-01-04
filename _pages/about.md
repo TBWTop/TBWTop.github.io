@@ -29,6 +29,8 @@ Yang-Mills equations and the topology of four-manifolds, senior thesis.
 
 Teaching Assistant Experiences
 ======
-I serve as a teaching assistant for the course GEOMETRY (with Prof. Yi Xie) in this semester (Fall 2024).
+Spring 2025: Fiber Bundles and Characteristic Classes (with Prof. Zhiqiang Bao).
+
+Fall 2024: Geometry (with Prof. Yi Xie).
 
 Fall 2023: Advanced Mathematics A (I) (with Prof. Jinbiao Wu). 
