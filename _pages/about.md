@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year PhD student in [School of Mathematical Sciences](https://www.math.pku.edu.cn/), [Peking University](https://www.pku.edu.cn), under the supervision of Prof. Yi Xie. Previously, I received my Bachelor's degree in math from Peking University in 2024.
+I am a first-year PhD student at [School of Mathematical Sciences](https://www.math.pku.edu.cn/), [Peking University](https://www.pku.edu.cn), under the supervision of Prof. Yi Xie. Previously, I received my Bachelor's degree in math from Peking University in 2024.
 
 Contact
 ======
@@ -23,9 +23,11 @@ I do research in low-dimensional topology, especially gauge theory, Floer homolo
 
 Notes
 ======
-A Note on Frøyshov's h-invariant for homology 3-spheres, in preparation.
+On homology 3-spheres with no definite bounding. (A note of studying Frøyshov's invariant and related works)
 
-Yang-Mills equations and the topology of four-manifolds, senior thesis. 
+Seminars
+======
+A student seminar on Floer homology is organized by Yi Sha. Click here for more information.
 
 Teaching Assistant Experiences
 ======
