@@ -9,12 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
-The seminar is held on Sundays from 3pm to 5pm in Spring 2025.
-
-Participants
+Student seminar on Floer homology at PKU
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+
+The seminar is held on Sundays from 3pm to 5pm in Spring 2025. Unless otherwise stated, the location is at Quan 29.
+
+* Speaker: Yi Sha
+ Date: 
 
 
