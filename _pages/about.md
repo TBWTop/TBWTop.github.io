@@ -29,10 +29,6 @@ Notes
 ======
 On homology 3-spheres with no definite bounding. (A note of studying Frøyshov's invariant and related works)
 
-Seminars
-======
-A student seminar on Floer homology is organized by Yi Sha. Click here for more information.
-
 Teaching Assistant Experiences
 ======
 Spring 2025: Fiber Bundles and Characteristic Classes (with Prof. Zhiqiang Bao).
