@@ -1,7 +1,7 @@
 ---
-permalink: /
+permalink: /test
 title: "test"
-author_profile: false
+author_profile: true
 redirect_from: 
   - /test/
   - /test.html
