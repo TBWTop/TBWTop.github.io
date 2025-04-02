@@ -25,10 +25,6 @@ Research
 ======
 I do research in low-dimensional topology, especially gauge theory, Floer homology, and invariants of knots and links.
 
-Notes
-======
-On homology 3-spheres with no definite bounding. (A note of studying Frøyshov's invariant and related works)
-
 Teaching Assistant Experiences
 ======
 2025S: Fiber Bundles and Characteristic Classes (Lecturer: Professor Zhiqiang Bao).
