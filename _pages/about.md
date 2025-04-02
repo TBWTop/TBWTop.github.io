@@ -31,8 +31,8 @@ On homology 3-spheres with no definite bounding. (A note of studying Frøyshov's
 
 Teaching Assistant Experiences
 ======
-Spring 2025: Fiber Bundles and Characteristic Classes (Lecturer: Professor Zhiqiang Bao).
+2025S: Fiber Bundles and Characteristic Classes (Lecturer: Professor Zhiqiang Bao).
 
-Fall 2024: Geometry (Lecturer: Professor Yi Xie).
+2024F: Geometry (Lecturer: Professor Yi Xie).
 
-Fall 2023: Advanced Mathematics A (I) (Lecturer: Professor Jinbiao Wu). 
+2023F: Advanced Mathematics A (I) (Lecturer: Professor Jinbiao Wu). 
