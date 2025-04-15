@@ -7,15 +7,11 @@
 
 # Site Settings
 title                    : "Bowen Tang"
-description              : "School of Mathematical Sciences \n
-
-No. 5 Yiheyuan Road, Haidian District \n
-
-Peking University \n
-
-Beijing 100871 \n
-
-China P. R."
+description              : | School of Mathematical Sciences
+No. 5 Yiheyuan Road, Haidian District
+Peking University 
+Beijing 100871 
+China P. R.
 repository               : "Bowen Tang/tbwtop.github.io"
 google_scholar_stats_use_cdn : false
 
