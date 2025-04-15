@@ -7,13 +7,13 @@
 
 # Site Settings
 title                    : "Bowen Tang"
-description              : "School of Mathematical Sciences \\
+description              : "School of Mathematical Sciences \n
 
-No. 5 Yiheyuan Road, Haidian District \\
+No. 5 Yiheyuan Road, Haidian District \n
 
-Peking University \\
+Peking University \n
 
-Beijing 100871 \\
+Beijing 100871 \n
 
 China P. R."
 repository               : "Bowen Tang/tbwtop.github.io"
@@ -32,7 +32,7 @@ author:
   name             : "Bowen Tang"
   avatar           : "images/Photo.png"
   bio              : "PhD candidate at Peking University"
-  location         : "Beijing, China"
+  location         : 
   employer         :
   pubmed           : 
   googlescholar    : 
