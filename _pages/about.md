@@ -11,16 +11,6 @@ I am Bowen Tang (唐博文), a first-year Pure Mathematics PhD candidate at [Sch
 
 Previously, I received my Bachelor's degree in math from Peking University in 2024.
 
-Contact
-======
-School of Mathematical Sciences, Peking University
-
-No. 5 Yiheyuan Road, Haidian District, Beijing, P. R. China, 100871
-
-Email address: tangbowen AT stu DOT pku DOT edu DOT cn
-
-Office: 19-124
-
 Research
 ======
 I do research in low-dimensional topology, especially gauge theory, Floer homology, and invariants of knots and links.
