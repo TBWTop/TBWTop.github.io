@@ -27,8 +27,8 @@ I do research in low-dimensional topology, especially gauge theory, Floer homolo
 
 Teaching Assistant Experiences
 ======
-2025S: Fiber Bundles and Characteristic Classes (Lecturer: Professor Zhiqiang Bao).
+2025S: Fiber Bundles and Characteristic Classes (Lecturer: Professor Zhiqiang Bao)
 
-2024F: Geometry (Lecturer: Professor Yi Xie).
+2024F: Geometry (Lecturer: Professor Yi Xie)
 
-2023F: Advanced Mathematics A (I) (Lecturer: Professor Jinbiao Wu). 
+2023F: Advanced Mathematics A (I) (Lecturer: Professor Jinbiao Wu)
