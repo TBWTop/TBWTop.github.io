@@ -13,15 +13,11 @@ Previously, I received my Bachelor's degree in Mathematics and Applied Mathemati
 
 Contact
 ======
-School of Mathematical Sciences
+School of Mathematical Sciences, Peking University
 
-No. 5 Yiheyuan Road, Haidian District
+No. 5 Yiheyuan Road, Haidian District, Beijing 100871, China P. R.
 
-Peking University
-
-Beijing 100871
-
-China P. R.
+Office: 19-124
 
 Research
 ======
