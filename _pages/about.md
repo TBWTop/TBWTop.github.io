@@ -19,6 +19,8 @@ No. 5 Yiheyuan Road, Haidian District, Beijing 100871, China P. R.
 
 Office: 19-124
 
+E-mail: tangbowen AT stu DOT pku DOT edu DOT cn
+
 Research
 ======
 I do research in low-dimensional topology, especially gauge theory, Floer homology, and invariants of knots and links.
