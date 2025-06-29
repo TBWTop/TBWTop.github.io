@@ -27,7 +27,7 @@ I do research in low-dimensional topology, especially gauge theory, Floer homolo
 
 Teaching Assistant Experiences
 ======
-2025F: Linear Algebra B
+2025F: Linear Algebra B (Lecturer: Professor Guchuan Li)
 
 2025S: Fiber Bundles and Characteristic Classes (Lecturer: Professor Zhiqiang Bao)
 
