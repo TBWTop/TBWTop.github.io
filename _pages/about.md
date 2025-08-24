@@ -31,7 +31,7 @@ The following is a list of my (pre)publications.
 
    (Joint with Yi Xie)
 
-   Accepted by __Journal of the American Mathematical Society__ [Journal](https://arxiv.org/search/math) [arXiv](https://arxiv.org/search/math)
+   Accepted by __Journal of the American Mathematical Society__ [Journal](https://arxiv.org/search/math), [arXiv](https://arxiv.org/search/math)
 
 2. _Rank inequalities in framed instanton Floer homology_
 
