@@ -15,7 +15,7 @@ Contact
 ======
 School of Mathematical Sciences, Peking University
 
-No. 5 Yiheyuan Road, Haidian District, Beijing 100871, China P. R.
+No. 5 Yiheyuan Road, Haidian District, Beijing 100871, P. R. China
 
 Office: 19-124
 
@@ -23,7 +23,7 @@ E-mail: tangbowen AT stu DOT pku DOT edu DOT cn
 
 Research
 ======
-I do research in low dimensional topology, especially gauge theory, Floer homology, and invariants of knots and links.
+I do research in <em>low dimensional topology</em>, especially gauge theory, Floer homology, and invariants of knots and links.
 
 Teaching Assistant Experiences
 ======
