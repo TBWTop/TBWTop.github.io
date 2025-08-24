@@ -25,8 +25,6 @@ Research
 ======
 I do research in [<strong>low dimensional topology</strong>](https://en.wikipedia.org/wiki/Low-dimensional_topology), especially [gauge theory](https://en.wikipedia.org/wiki/Gauge_theory_(mathematics)), [Floer homology](https://en.wikipedia.org/wiki/Floer_homology), and invariants of knots and links.
 
-1. _Instanton Floer homology of $\mathit{\Sigma \times S^2}$_
-
 Teaching Assistant Experiences
 ======
 2025F: Linear Algebra B (Lecturer: Professor Guchuan Li)
