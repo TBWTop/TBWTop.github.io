@@ -27,9 +27,9 @@ I do research in [<strong>low dimensional topology</strong>](https://en.wikipedi
 
 The following is a list of my (pre)publications. 
 
-2. _Rank inequalities in framed instanton Floer homology_
+2\. _Rank inequalities in framed instanton Floer homology_
 
-1. <em>Yang-Mills equations and the topology of four-manifolds</em> [arXiv](https://arxiv.org/search/math)
+1\. <em>Yang-Mills equations and the topology of four-manifolds</em> [arXiv](https://arxiv.org/search/math)
 
 Teaching Assistant Experiences
 ======
