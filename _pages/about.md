@@ -25,21 +25,6 @@ Research
 ======
 I do research in [<strong>low dimensional topology</strong>](https://en.wikipedia.org/wiki/Low-dimensional_topology), especially [gauge theory](https://en.wikipedia.org/wiki/Gauge_theory_(mathematics)), [Floer homology](https://en.wikipedia.org/wiki/Floer_homology), and invariants of knots and links.
 
-The following is a list of my (pre)publications. 
-
-3. _A connected sum formula for instanton Floer homology with $\mathbb{Z}/2$ coefficients_
-
-   (Joint with Yi Xie)
-
-   Accepted by __Journal of the American Mathematical Society__ [Journal](https://arxiv.org/search/math), [arXiv](https://arxiv.org/search/math)
-
-2. _Rank inequalities in framed instanton Floer homology_
-
-   (Joint with Xingpei Liu) [arXiv](https://arxiv.org/search/math)
-
-1. _Yang-Mills equations and the topology of four-manifolds_ [arXiv](https://arxiv.org/search/math)
-
-
 Teaching Assistant Experiences
 ======
 2025F: Linear Algebra B (Lecturer: Professor Guchuan Li)
