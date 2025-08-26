@@ -25,6 +25,20 @@ Research
 ======
 I do research in [<strong>low dimensional topology</strong>](https://en.wikipedia.org/wiki/Low-dimensional_topology), especially [gauge theory](https://en.wikipedia.org/wiki/Gauge_theory_(mathematics)), [Floer homology](https://en.wikipedia.org/wiki/Floer_homology), and invariants of knots and links.
 
+The following is a list of my (pre)publications. 
+
+1. _Configuration space integrals and formal smooth structures_
+
+   (Joint with Jianfeng Lin)
+
+   Preprint [arXiv](https://arxiv.org/abs/2310.14156)
+
+2. _A deformation of Asaeda-Przytycki-Sikora homology_
+
+   (Joint with Zhenkun Li and Boyu Zhang)
+
+   __Algebr. Geom. Topol.__ 25 (2025) 1545–1560 [journal](https://msp.org/agt/2025/25-3/p08.xhtml), [arXiv](https://arxiv.org/abs/2302.11109)
+
 Teaching Assistant Experiences
 ======
 2025F: Linear Algebra B (Lecturer: Professor Guchuan Li)
