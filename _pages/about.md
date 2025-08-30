@@ -29,7 +29,7 @@ Teaching Assistant Experiences
 ======
 2025F: Linear Algebra B (Lecturer: Professor Guchuan Li) 
 
-       [Lecture notes](assets/25F_Lecture_Notes.pdf) (written in Chinese) and the (handwritten) [solutions] to the problems in the lecture notes can be found here.
+       [Lecture notes](assets/25F_Lecture_Notes.pdf) (written in Chinese) and the (handwritten) [solutions](assets/25F_Solution.pdf) to the problems in the lecture notes can be found here.
 
 2025S: Fiber Bundles and Characteristic Classes (Lecturer: Professor Zhiqiang Bao)
 
