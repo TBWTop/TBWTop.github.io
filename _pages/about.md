@@ -27,7 +27,9 @@ I do research in [<strong>low dimensional topology</strong>](https://en.wikipedi
 
 Teaching Assistant Experiences
 ======
-2025F: Linear Algebra B (Lecturer: Professor Guchuan Li) [Lecture notes](assets/25F_Lecture_Notes.pdf) and Solutions can be found here.
+2025F: Linear Algebra B (Lecturer: Professor Guchuan Li) 
+
+       [Lecture notes](assets/25F_Lecture_Notes.pdf) (written in Chinese) and the (handwritten) [solutions] to the problems in the lecture notes can be found here.
 
 2025S: Fiber Bundles and Characteristic Classes (Lecturer: Professor Zhiqiang Bao)
 
