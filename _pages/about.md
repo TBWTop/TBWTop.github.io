@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Bowen Tang (唐博文), a second-year Pure Mathematics PhD candidate at [School of Mathematical Sciences](https://www.math.pku.edu.cn/), [Peking University](https://www.pku.edu.cn), under the supervision of Professor [Yi Xie](https://bicmr.pku.edu.cn/content/lists/11_catid74_zmx.html). 
+I am Bowen Tang (唐博文), a second-year Pure Mathematics PhD candidate at [School of Mathematical Sciences](https://www.math.pku.edu.cn/), [Peking University](https://www.pku.edu.cn), under the supervision of Professor [Yi Xie](https://www.math.pku.edu.cn/jsdw/js_20180628175159671361/x_20180628175159671361/171790.htm). 
 
 Previously, I obtained my Bachelor's degree in Mathematics and Applied Mathematics from Peking University in 2024.
 
