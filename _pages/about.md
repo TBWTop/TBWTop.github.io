@@ -31,7 +31,7 @@ Teaching Assistant Experiences
 ======
 __2026S:__ Homology Theory (Course of Enhanced Program for Graduate Study (2026) at BICMR. Lecturer: Professor Yi Xie)
 
-__2025F:__ Linear Algebra B (Lecturer: Professor Guchuan Li) [Lecture notes](assets/25F_Lecture_Notes_1-4.pdf)
+__2025F:__ Linear Algebra B (Lecturer: Professor Guchuan Li) [Lecture notes](assets/25Fall_Lecture_Notes.pdf)
 
 __2025S:__ Fiber Bundles and Characteristic Classes (Lecturer: Professor Zhiqiang Bao)
 
