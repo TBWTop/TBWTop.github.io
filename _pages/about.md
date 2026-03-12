@@ -25,13 +25,13 @@ E-mail: tangbowen AT stu DOT pku DOT edu DOT cn
 
 Research
 ======
-I do research in [<strong>low dimensional topology</strong>](https://en.wikipedia.org/wiki/Low-dimensional_topology), especially [gauge theory](https://en.wikipedia.org/wiki/Gauge_theory_(mathematics)), [Floer homology](https://en.wikipedia.org/wiki/Floer_homology), and invariants of knots and links.
+I do research in [<strong>low-dimensional topology</strong>](https://en.wikipedia.org/wiki/Low-dimensional_topology), especially [gauge theory](https://en.wikipedia.org/wiki/Gauge_theory_(mathematics)), [Floer homology](https://en.wikipedia.org/wiki/Floer_homology), and invariants of knots and links.
 
 Teaching Assistant Experiences
 ======
 __2026S:__ Homology Theory (Course of Enhanced Program for Graduate Study (2026) at BICMR. Lecturer: Professor Yi Xie)
 
-__2025F:__ Linear Algebra B (Lecturer: Professor Guchuan Li) [Lecture notes](assets/25F_Lecture_Notes_1-4.pdf) , [solutions to the problems in the lecture notes](assets/25F_Solution.pdf)
+__2025F:__ Linear Algebra B (Lecturer: Professor Guchuan Li) [Lecture notes](assets/25F_Lecture_Notes_1-4.pdf)
 
 __2025S:__ Fiber Bundles and Characteristic Classes (Lecturer: Professor Zhiqiang Bao)
 
