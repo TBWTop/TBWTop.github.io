@@ -29,12 +29,12 @@ I do research in [<strong>low-dimensional topology</strong>](https://en.wikipedi
 
 Teaching Assistant Experiences
 ======
-__2026S:__ Homology Theory (Course of Enhanced Program for Graduate Study (2026) at BICMR. Lecturer: Professor Yi Xie)
+__2026S: Homology Theory__ (Course of Enhanced Program for Graduate Study (2026) at BICMR. Lecturer: Professor Yi Xie)
 
-__2025F:__ Linear Algebra B (Lecturer: Professor Guchuan Li) [Lecture notes](assets/25Fall_Lecture_Notes.pdf)
+__2025F: Linear Algebra B__ (Lecturer: Professor Guchuan Li) [Lecture notes](assets/25Fall_Lecture_Notes.pdf)
 
-__2025S:__ Fiber Bundles and Characteristic Classes (Lecturer: Professor Zhiqiang Bao)
+__2025S: Fiber Bundles and Characteristic Classes__ (Lecturer: Professor Zhiqiang Bao)
 
-__2024F:__ Geometry (Lecturer: Professor Yi Xie)
+__2024F: Geometry__ (Lecturer: Professor Yi Xie)
 
-__2023F:__ Advanced Mathematics A (I) (Lecturer: Professor Jinbiao Wu)
+__2023F: Advanced Mathematics A (I)__ (Lecturer: Professor Jinbiao Wu)
