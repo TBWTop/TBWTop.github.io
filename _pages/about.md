@@ -19,7 +19,7 @@ School of Mathematical Sciences, Peking University
 
 No. 5 Yiheyuan Road, Haidian District, Beijing 100871, P. R. China
 
-Office: Building No. 20, Room 202
+Office: Room 202, Building No. 20
 
 E-mail: tangbowen AT stu DOT pku DOT edu DOT cn
 
@@ -41,4 +41,4 @@ __2023F: Advanced Mathematics A (I)__ (Lecturer: Professor Jinbiao Wu)
 
 Links
 ======
-[Qizheng You's homepage](https://pumpkinqzy.github.io/). Qizheng You is my senior colleague working on 4-dimensional topology. He is an experienced TA for linear algebra.
+I am running a low-dimensional topology student seminar with Xingpei Liu and [Qizheng You](https://pumpkinqzy.github.io/). The seminar is usually held on Fridays from 3 PM to 5 PM in Room 210, Building No. 19. 
