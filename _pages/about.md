@@ -30,6 +30,7 @@ I do research in [<strong>low-dimensional topology</strong>](https://en.wikipedi
 Teaching Assistant Experiences
 ======
 __2026F: Advanced Mathematics B (I)__ (Lecturer: Professor Jianchun Chu)
+   1
 
 __2026S: Homology Theory__ (Course of Enhanced Program for Graduate Study (2026) at BICMR. Lecturer: Professor Yi Xie)
 
