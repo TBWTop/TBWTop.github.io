@@ -33,7 +33,7 @@ __2026F: Advanced Mathematics B (I)__ (Lecturer: Professor Jianchun Chu)
    
 &ensp;&ensp;&ensp;&ensp;Lecture notes can be found here: 
 
-__2026S: Homology Theory__ (Course of Enhanced Program for Graduate Study (2026) at BICMR. Lecturer: Professor Yi Xie)
+__2026S: Homology Theory__ (Course of Enhanced Program for Graduate Study (2026) at BICMR. Lecturer: Professor Yi Xie) [HW Solution](assets/26S_HW_Sol.pdf)
 
 __2025F: Linear Algebra B__ (Lecturer: Professor Guchuan Li) [Lecture notes](assets/25Fall_Lecture_Notes.pdf)
 
