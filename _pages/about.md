@@ -27,6 +27,12 @@ Research
 ======
 I do research in [<strong>low-dimensional topology</strong>](https://en.wikipedia.org/wiki/Low-dimensional_topology), especially [gauge theory](https://en.wikipedia.org/wiki/Gauge_theory_(mathematics)), [Floer homology](https://en.wikipedia.org/wiki/Floer_homology), and invariants of knots and links.
 
+The following is a list of my (pre)publications. 
+
+1. _$SO(3)$-representation varieties and detection results for links and theta graphs_
+
+   (In preparation)
+
 Teaching Assistant Experiences
 ======
 __2026F: Advanced Mathematics B (I)__ (Lecturer: Professor Jianchun Chu)
