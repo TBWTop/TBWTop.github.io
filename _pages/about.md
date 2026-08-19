@@ -52,3 +52,5 @@ __2023F: Advanced Mathematics A (I)__ (Lecturer: Professor Jinbiao Wu)
 Links
 ======
 I am running a low-dimensional topology student seminar with Xingpei Liu and [Qizheng You](https://pumpkinqzy.github.io/). The seminar has no fixed topic and it is usually held on Fridays from 3 PM to 5 PM in Room 210, Building No. 19. We mainly focus on instanton Floer homology and knotted surfaces in 4-manifolds. 
+
+Yi Sha has set up a [website](http://topseminar.icu/) for organizing and browsing in-person topology seminars. The website is currently still under development and mainly focuses on seminars in Haidian district, Beijing. 
