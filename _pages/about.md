@@ -37,7 +37,7 @@ Teaching Assistant Experiences
 ======
 __2026F: Advanced Mathematics B (I)__ (Lecturer: Professor Jianchun Chu)
    
-&ensp;&ensp;&ensp;&ensp;Lecture notes can be found here: 
+&ensp;&ensp;&ensp;&ensp;Lecture notes can be found here: [Preliminaries](assets/26F_Preliminaries.pdf)
 
 __2026S: Homology Theory__ (Course of Enhanced Program for Graduate Study (2026) at BICMR. Lecturer: Professor Yi Xie) [HW Solution](assets/26S_HW_Sol.pdf)
 
