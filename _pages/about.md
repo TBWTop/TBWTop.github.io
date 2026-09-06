@@ -29,7 +29,7 @@ My research interests lie in [<strong>low-dimensional topology</strong>](https:/
 
 The following is a list of my (pre)publications. 
 
-1. _$SO(3)$-representation varieties and detection results for links and theta graphs_
+1. _A detection result of $SO(3)$ representation varieties_
 
    (In preparation)
 
