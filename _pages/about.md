@@ -53,4 +53,4 @@ Links
 ======
 I co-organize a low-dimensional topology student seminar with Xingpei Liu and [Qizheng You](https://pumpkinqzy.github.io/). The seminar has no fixed theme and it is usually held on Fridays from 3 PM to 5 PM in Room 210, Building No. 19. Our discussions mainly focus on instanton Floer homology and knotted surfaces in 4-manifolds. 
 
-Yi Sha has set up a [website](http://topseminar.icu/) for organizing and browsing in-person topology seminars. The website is currently under development and mainly focuses on seminars held in Haidian district, Beijing. 
+[Yi Sha](https://sites.google.com/view/yi-sha/) has set up a [website](http://topseminar.icu/) for organizing and browsing in-person topology seminars. The website is currently under development and mainly focuses on seminars held in Haidian district, Beijing. 
