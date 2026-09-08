@@ -11,6 +11,8 @@ I am Bowen Tang (唐博文), a third-year PhD candidate in Pure Mathematics at [
 
 I obtained my Bachelor's degree in Mathematics and Applied Mathematics from Peking University in 2024.
 
+My Chinese given name is pronounced roughly like “bowl-when”, and my family name is pronounced like the word “tongue”.
+
 Contact
 ======
 School of Mathematical Sciences, Peking University
