@@ -13,6 +13,8 @@ I obtained my Bachelor's degree in Mathematics and Applied Mathematics from Peki
 
 My Chinese given name is pronounced roughly like “bowl-when”, and my family name is pronounced like the word “tongue”.
 
+Here is my [CV](assets/CV_202609.pdf) as of September 1, 2026
+
 Contact
 ======
 School of Mathematical Sciences, Peking University
