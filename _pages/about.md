@@ -15,16 +15,6 @@ My Chinese given name is pronounced roughly like “bowl-when”, and my family 
 
 Here is my [CV](assets/CV_202609.pdf) as of September 1, 2026
 
-Contact
-======
-School of Mathematical Sciences, Peking University
-
-No. 5 Yiheyuan Road, Haidian District, Beijing 100871, P. R. China
-
-Office: Room 202, Building No. 20
-
-E-mail: tangbowen AT stu DOT pku DOT edu DOT cn
-
 Research
 ======
 My research interests lie in [<strong>low-dimensional topology</strong>](https://en.wikipedia.org/wiki/Low-dimensional_topology), especially [gauge theory](https://en.wikipedia.org/wiki/Gauge_theory_(mathematics)), [Floer homology](https://en.wikipedia.org/wiki/Floer_homology), and invariants of knots and links.
@@ -56,3 +46,13 @@ Links
 I co-organize a low-dimensional topology student seminar with Xingpei Liu and [Qizheng You](https://pumpkinqzy.github.io/). The seminar has no fixed theme and it is usually held on Fridays from 3 PM to 5 PM in Room 210, Building No. 19. Our discussions mainly focus on instanton Floer homology and knotted surfaces in 4-manifolds. 
 
 [Yi Sha](https://sites.google.com/view/yi-sha/) has set up a [website](http://topseminar.icu/) for organizing and browsing in-person topology seminars. The website is currently under development and mainly focuses on seminars held in Haidian district, Beijing. 
+
+Contact
+======
+School of Mathematical Sciences, Peking University
+
+No. 5 Yiheyuan Road, Haidian District, Beijing 100871, P. R. China
+
+Office: Room 202, Building No. 20
+
+E-mail: tangbowen AT stu DOT pku DOT edu DOT cn
