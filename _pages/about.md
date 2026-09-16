@@ -51,6 +51,8 @@ Links
 ======
 [Jianru Duan](https://duan-jianru.github.io/), [Qing Lan](https://lanqing-math.github.io/), [Yi Sha](https://sites.google.com/view/yi-sha/), [Qizheng You](https://pumpkinqzy.github.io/)
 
+[Café Obtus](https://mp.weixin.qq.com/s/CsXiT3ZWsTkdJ12gDyrQrw)
+
 Contact
 ======
 School of Mathematical Sciences, Peking University
