@@ -29,7 +29,7 @@ Teaching Assistant Experiences
 ======
 __2026F: Advanced Mathematics B (I)__ (Lecturer: Professor Jianchun Chu)
    
-&ensp;&ensp;&ensp;&ensp;Lecture notes can be found here: [Preliminaries](assets/26F_Preliminaries.pdf), [Week1](assets/26F_Week1.pdf), [Week2](assets/26F_Week2.pdf), [Week3](assets/26F_Week3.pdf), [Week4](assets/26F_Week4.pdf), [Week6](assets/26F_Week6.pdf), [Week7](assets/26F_Week7.pdf)
+&ensp;&ensp;&ensp;&ensp;Lecture notes can be found here: [Preliminaries](assets/26F_Preliminaries.pdf), [Week1](assets/26F_Week1.pdf), [Week2](assets/26F_Week2.pdf), [Week3](assets/26F_Week3.pdf), [Week4](assets/26F_Week4.pdf), [Week6](assets/26F_Week6.pdf), [Week7](assets/26F_Week7.pdf), [Week8](assets/26F_Week8.pdf)
 
 __2026S: Homology Theory__ (A course in the Enhanced Program for Graduate Study (2026) at BICMR; Lecturer: Professor Yi Xie) [HW Solutions](assets/26S_HW_Sol.pdf)
 
@@ -59,6 +59,6 @@ School of Mathematical Sciences, Peking University
 
 No. 5 Yiheyuan Road, Haidian District, Beijing 100871, P. R. China
 
-Office: Room 202, Building No. 20
+Office: Room 304, Building No. 19
 
 E-mail: tangbowen AT stu DOT pku DOT edu DOT cn
